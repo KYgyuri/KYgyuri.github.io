@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Toy Project"
+title:  "변경 확인"
 info: "toy project"
 tech: "python"
 type: Toy 
